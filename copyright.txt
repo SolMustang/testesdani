@@ -5,6 +5,8 @@
   which should be available at the same location as where you obtained 
   this version.
 
+teste
+
  IMPORTANT: PLEASE READ CAREFULLY BEFORE USING THE BLENDER SOFTWARE
   
   This License Agreement for the Blender software ("License
